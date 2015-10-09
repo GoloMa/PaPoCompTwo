@@ -1,3 +1,3 @@
 # PaPoCompTwo
 
-To be published soon
+Non linear composite shear panel calculation with post critical analysis.
